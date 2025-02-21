@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as n,ae as t}from"./chunks/framework.CnPnaHem.js";const o=JSON.parse('{"title":"API 模块","description":"","frontmatter":{},"headers":[],"relativePath":"API.md","filePath":"API.md"}'),l={name:"API.md"};function p(e,s,h,k,r,E){return n(),i("div",null,s[0]||(s[0]=[t("",19)]))}const c=a(l,[["render",p]]);export{o as __pageData,c as default};
