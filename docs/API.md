@@ -1,6 +1,6 @@
-# Markdown Extension Examples
+# API 模块
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+API 模块
 
 ## Syntax Highlighting
 

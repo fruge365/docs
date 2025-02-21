@@ -15,7 +15,7 @@ const { site, frontmatter } = useData()
     </ul>
   </div>
   <div v-else>
-    <a href="/">Home</a>
+    <a href="/">主页</a>
     <Content />
   </div>
 </template>
